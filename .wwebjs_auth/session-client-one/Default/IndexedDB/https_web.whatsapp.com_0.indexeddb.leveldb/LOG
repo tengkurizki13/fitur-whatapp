@@ -1,0 +1,25 @@
+2024/02/13-13:13:36.879 11561 Reusing MANIFEST /home/tengku/wa/bot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/13-13:13:36.880 11561 Recovering log #628
+2024/02/13-13:13:37.024 11561 Reusing old log /home/tengku/wa/bot/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000628.log 
+2024/02/13-13:13:37.024 11561 Delete type=2 #629
+2024/02/13-13:13:37.024 11561 Delete type=2 #626
+2024/02/13-13:13:37.024 11561 Delete type=2 #627
+2024/02/13-13:13:38.807 11526 Level-0 table #634: started
+2024/02/13-13:13:38.866 11526 Level-0 table #634: 646921 bytes OK
+2024/02/13-13:13:38.869 11526 Delete type=0 #628
+2024/02/13-13:13:38.869 11526 Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at '\x00A\x00\x00\x05' @ 2653667 : 1
+2024/02/13-13:13:38.869 11526 Compacting 1@0 + 2@1 files
+2024/02/13-13:13:39.118 11526 Generated table #635@0: 97480 keys, 2268489 bytes
+2024/02/13-13:13:39.175 11526 Generated table #636@0: 20796 keys, 928055 bytes
+2024/02/13-13:13:39.175 11526 Compacted 1@0 + 2@1 files => 3196544 bytes
+2024/02/13-13:13:39.177 11526 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/02/13-13:13:39.178 11526 Delete type=2 #634
+2024/02/13-13:13:39.179 11525 Manual compaction at level-0 from '\x00A\x00\x00\x05' @ 2653667 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/13-13:14:02.129 11560 Compacting 1@1 + 1@2 files
+2024/02/13-13:14:02.208 11560 Generated table #637@1: 29803 keys, 1716263 bytes
+2024/02/13-13:14:02.208 11560 Compacted 1@1 + 1@2 files => 1716263 bytes
+2024/02/13-13:14:02.212 11560 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/13-13:14:02.212 11560 Delete type=2 #588
+2024/02/13-13:14:02.212 11560 Delete type=2 #635
+2024/02/13-13:14:02.212 11560 Delete type=2 #630
+2024/02/13-13:14:02.212 11560 Delete type=2 #631
